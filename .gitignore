@@ -17,6 +17,7 @@
 /dist/
 /.vinext/
 /.tanstack/
+/.openai/
 
 # misc
 .DS_Store
