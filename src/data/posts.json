@@ -1,0 +1,182 @@
+[
+  {
+    "slug": "the-quiet-internet",
+    "title": "The quiet internet is making a comeback",
+    "dek": "Away from the feeds, a softer web is being built—one small room, strange blog and human reply at a time.",
+    "category": "Culture",
+    "date": "Jul 08, 2026",
+    "readTime": "7 min read",
+    "views": "18.4K",
+    "commentCount": 24,
+    "accent": "coral",
+    "art": "orbit",
+    "featured": true,
+    "author": {
+      "name": "Mara Bell",
+      "handle": "@marabell",
+      "role": "Editor at FIELDNOTE",
+      "avatar": "MB",
+      "color": "sun"
+    },
+    "body": [
+      {
+        "type": "paragraph",
+        "text": "The best corner of the internet I found this month has twelve members, a pale blue background and a hand-coded guestbook. There is no infinite scroll. The newest post is about a neighbour's pear tree. I read every word."
+      },
+      {
+        "type": "paragraph",
+        "text": "For years, we treated the web like a city that could only grow upward: taller feeds, denser dashboards, more windows blinking for attention. But quietly, some people have started building sideways again. Newsletters feel like letters. Forums have front porches. Personal sites are delightfully specific."
+      },
+      {
+        "type": "quote",
+        "text": "The opposite of a viral post is not a failed post. It is a note that reached exactly the right person."
+      },
+      {
+        "type": "heading",
+        "text": "Small rooms, strong signals"
+      },
+      {
+        "type": "paragraph",
+        "text": "A small audience changes the shape of expression. You stop performing consensus and begin describing what you actually noticed. The feedback loop is slower, but it is richer. A reply might arrive three days later and contain a real story instead of a reaction glyph."
+      },
+      {
+        "type": "paragraph",
+        "text": "This is not nostalgia for dial-up sounds or under-construction GIFs. The new quiet web borrows the warmth of that era while keeping the useful parts of the modern stack: responsive type, accessible interfaces, good search and communities that can protect their edges."
+      },
+      {
+        "type": "heading",
+        "text": "A web worth tending"
+      },
+      {
+        "type": "paragraph",
+        "text": "Maybe the next great platform is not a platform at all. Maybe it is ten thousand well-tended places with doors, windows and a person who remembers your name. The web does not need to become smaller. It needs to feel close enough to touch again."
+      }
+    ]
+  },
+  {
+    "slug": "designing-for-the-second-look",
+    "title": "Designing for the second look",
+    "dek": "The first glance wins attention. The second earns affection. Here is how to make interfaces that keep unfolding.",
+    "category": "Design",
+    "date": "Jul 05, 2026",
+    "readTime": "5 min read",
+    "views": "11.2K",
+    "commentCount": 17,
+    "accent": "violet",
+    "art": "grid",
+    "featured": false,
+    "author": {
+      "name": "Noah Venn",
+      "handle": "@noahmakes",
+      "role": "Product designer",
+      "avatar": "NV",
+      "color": "lilac"
+    },
+    "body": [
+      {
+        "type": "paragraph",
+        "text": "A good interface explains itself quickly. A memorable one keeps a little something in reserve. The second look is where a tiny label, a thoughtful transition or an unexpectedly generous empty state becomes visible."
+      },
+      {
+        "type": "paragraph",
+        "text": "Speed matters, but fluency is not the same as flatness. The best products form layers: the obvious action, the reassuring detail and the small reward waiting for the regular."
+      },
+      {
+        "type": "quote",
+        "text": "Clarity gets people through the door. Character gives them a reason to remember the room."
+      },
+      {
+        "type": "heading",
+        "text": "Make the edges intentional"
+      },
+      {
+        "type": "paragraph",
+        "text": "Look at the moments outside the happy path. Loading, waiting, failing, returning. These are the seams people touch most often, and they are where a product's voice becomes credible."
+      }
+    ]
+  },
+  {
+    "slug": "before-sunrise",
+    "title": "What I learned shipping before sunrise",
+    "dek": "A field report from thirty small launches, a dangerous coffee habit and the strange peace of pressing publish at 5:42 a.m.",
+    "category": "Work",
+    "date": "Jun 28, 2026",
+    "readTime": "9 min read",
+    "views": "8.7K",
+    "commentCount": 31,
+    "accent": "blue",
+    "art": "sunrise",
+    "featured": false,
+    "author": {
+      "name": "Suki Rao",
+      "handle": "@sukirao",
+      "role": "Independent developer",
+      "avatar": "SR",
+      "color": "mint"
+    },
+    "body": [
+      {
+        "type": "paragraph",
+        "text": "At 5:42 in the morning, there is no launch theatre. No one is refreshing the dashboard. The group chat is asleep. It is just you, the build log and the honest question: does this thing work?"
+      },
+      {
+        "type": "paragraph",
+        "text": "Shipping early taught me to separate the work from the performance of the work. Small releases became easier to reverse, easier to explain and much easier to learn from."
+      },
+      {
+        "type": "quote",
+        "text": "Momentum is less like a lightning strike and more like keeping one small promise to yourself every morning."
+      },
+      {
+        "type": "heading",
+        "text": "Shrink the ceremony"
+      },
+      {
+        "type": "paragraph",
+        "text": "The more frequently you publish, the less any single release has to carry. You can make a clear bet, watch it breathe and adjust without turning every decision into a referendum on your ability."
+      }
+    ]
+  },
+  {
+    "slug": "objects-with-stories",
+    "title": "Objects with stories beat objects with features",
+    "dek": "Why the things we keep are rarely the things with the longest specification sheet.",
+    "category": "Objects",
+    "date": "Jun 21, 2026",
+    "readTime": "4 min read",
+    "views": "6.1K",
+    "commentCount": 12,
+    "accent": "green",
+    "art": "stack",
+    "featured": false,
+    "author": {
+      "name": "Mara Bell",
+      "handle": "@marabell",
+      "role": "Editor at FIELDNOTE",
+      "avatar": "MB",
+      "color": "sun"
+    },
+    "body": [
+      {
+        "type": "paragraph",
+        "text": "The chipped green mug wins every morning. It holds less coffee than the new one and the handle is objectively worse, but it came from a small studio on a wet Tuesday in Kyoto."
+      },
+      {
+        "type": "paragraph",
+        "text": "We compare products with features because features are countable. We live with them through rituals, memory and touch. The things that last manage to cross that gap."
+      },
+      {
+        "type": "quote",
+        "text": "Utility gets an object onto the shelf. Meaning keeps it out of the drawer."
+      },
+      {
+        "type": "heading",
+        "text": "Design for the retelling"
+      },
+      {
+        "type": "paragraph",
+        "text": "A good object gives its owner a sentence worth saying: where it came from, why one detail is odd, who made it or what changed because it was there."
+      }
+    ]
+  }
+]
